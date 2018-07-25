@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc5Test", "Mvc5Test\Mvc5Test.csproj", "{A8490671-3F86-4F67-B9C8-33525BDD62A0}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A6E47F55-22EA-4496-880E-8AC6047B0BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCollect", "..\ConsoleCollect\ConsoleCollect.csproj", "{0A39D7A8-20E1-45E6-9D0B-EC71659A55DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8490671-3F86-4F67-B9C8-33525BDD62A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8490671-3F86-4F67-B9C8-33525BDD62A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8490671-3F86-4F67-B9C8-33525BDD62A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8490671-3F86-4F67-B9C8-33525BDD62A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E47F55-22EA-4496-880E-8AC6047B0BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E47F55-22EA-4496-880E-8AC6047B0BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E47F55-22EA-4496-880E-8AC6047B0BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E47F55-22EA-4496-880E-8AC6047B0BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A39D7A8-20E1-45E6-9D0B-EC71659A55DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A39D7A8-20E1-45E6-9D0B-EC71659A55DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A39D7A8-20E1-45E6-9D0B-EC71659A55DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A39D7A8-20E1-45E6-9D0B-EC71659A55DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF256D0-A3E7-4494-970E-4B4E66A43044}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mvc5test:
+    image: ${DOCKER_REGISTRY}mvc5test
+    build:
+      context: .\Mvc5Test
+      dockerfile: Dockerfile
